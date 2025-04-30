@@ -1,9 +1,8 @@
 YouTube Basic Video Player App
-A simple app to play YouTube videos using minimal setup and clean UI.
-Perfect for beginners learning how to embed and control YouTube videos in applications.
+A simple app to play videos using minimal setup and clean UI.
+Perfect for beginners learning how to embed and control videos in applications.
 
 📽️ Features
-Play YouTube videos by entering the video URL or ID.
 
 Basic Play/Pause controls.
 
@@ -18,37 +17,17 @@ Backend (optional): None (pure client-side app)
 
 YouTube API: Embedded Player
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/youtube-basic-player.git
-Navigate into the project folder:
-
-bash
-Copy
-Edit
-cd youtube-basic-player
-Open the index.html file in your browser.
-
-That's it! 🎉
 
 🧩 How It Works
-The app uses the YouTube IFrame Player API to embed videos.
-
-You can play any public YouTube video by pasting its URL or ID.
 
 Minimalistic controls are provided for a clean user experience.
 
-📸 Screenshots
-(Add screenshots here if you have any!)
+📸 Screenshot
+(SOON...)
 
 📚 Future Improvements
 Add volume control.
-
-Add playlist support.
 
 Implement fullscreen mode.
 
